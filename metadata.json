@@ -1,0 +1,9 @@
+{
+  "name": "IFTU LMS - Modern Learning Platform",
+  "description": "A comprehensive Learning Management System with AI-powered student assistance, user management, and performance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
